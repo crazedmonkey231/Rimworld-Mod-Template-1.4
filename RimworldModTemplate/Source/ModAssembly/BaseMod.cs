@@ -14,6 +14,8 @@ namespace ModAssembly
     // Right click on References and Add Reference then navigate to the folder to add the reference.
     // Add Harmony reference by navigating to the mod folder and in Assemblies, add the assembly.
     // Be sure to turn off Copy Local in the Properties window of the referenced assembly.
+    // Lastly, right click on ModAssembly->Properties->Build->Output Path->Browse->*Set to assemblies folder in this mod*->Save
+    // Then you can Build->Build Solution
     public class BaseMod : Mod
     {
         // Static reference for settings
