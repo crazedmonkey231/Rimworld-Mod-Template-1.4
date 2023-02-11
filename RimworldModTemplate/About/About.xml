@@ -8,6 +8,7 @@
 	</supportedVersions>
 	<description>*Fill This Out*</description>
 	<loadAfter>
+		<!-- <li>brrainz.harmony</li> -->
         <li>ludeon.rimworld</li>
     </loadAfter>
 	<!-- Add any mod dependencies
